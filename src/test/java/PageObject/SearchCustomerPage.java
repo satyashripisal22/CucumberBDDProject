@@ -22,7 +22,7 @@ WebDriver driver;
 	@FindBy(id="SearchEmail")
 	WebElement emailAdd;
 	
-	@FindBy(id="search-customers1")
+	@FindBy(id="search-customers")
 	WebElement searchBtn;
 	
 	@FindBy(xpath="//table[@width='100%']")
